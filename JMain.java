@@ -10,7 +10,7 @@ public class JMain {
         if (restoredRoom != null) {
             restoredRoom.displayInfo(); // Виведення інформації про кімнату
         } else {
-            System.out.println("Failed to restore room state.");
+            System.out.println("Failed to restore room staste.");
         }
     }
 }

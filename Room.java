@@ -51,4 +51,19 @@ class Room implements Serializable {
             return null;
         }
     }
+
+    public void saveInitialState() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'saveInitialState'");
+    }
+
+    public void restoreInitialState() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'restoreInitialState'");
+    }
+
+    public void setHeight(double d) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setHeight'");
+    }
 }
